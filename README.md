@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pritam Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img align="right" alt="coding" width="400" src="https://ik.imagekit.io/dresma/Dresma_Library/manager-openings_NW3bXTTFP.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bishnu17203&label=Profile%20views&color=0e75b6&style=flat" alt="priitam1623" /> </p>
 - 📫 How to reach me **pritamkumar22k@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
